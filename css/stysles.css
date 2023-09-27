@@ -1,3 +1,21 @@
 h1 {
-    color: blue;
+    color: white;
+}
+
+#titulo {
+    text-align: center;
+}
+body {
+    background: black;
+}
+
+.letra_blanca {
+    color: white;
+}
+.container{
+    background-color: blueviolet;
+}
+.parrafos {
+    padding-top: 60px;
+    padding-right: 200px;
 }
