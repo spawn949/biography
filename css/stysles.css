@@ -16,6 +16,21 @@ body {
     background-color: blueviolet;
 }
 .parrafos {
-    padding-top: 60px;
-    padding-right: 200px;
+    font-size: larger;
+}
+.resumen {
+    padding-top: 100px;
+}
+.size {
+    /* width: 600px; */
+}
+.imagenes {
+    width: 300px;
+    height: 300px;
+}
+a {
+    color:yellow;
+}
+.carousel-caption a{
+    color:yellow;
 }
